@@ -20,10 +20,11 @@ sheetprice = wb.worksheets[1]
 
 cell = sheet['A1']
 print ('Reading from SAPs.xlsx columns :'+cell.value)
+count = 0 
 
 ##for each line with a certified VM name 
 while cell.value != None:
-    count += 1
+    count = count + 1
     cell = sheet['A'+str(count)]
     ## if cell is not the last one 
     if cell.value != None:
