@@ -27,4 +27,4 @@ This is the one that should be used.
 
 5. Check prices for PAYG and RI for quick estimate. 
 
-![alt text](https://github.com/abicas/AzureSAPSizer/blob/[branch]/image.jpg?raw=true)
+![alt text](https://raw.githubusercontent.com/abicas/AzureSAPSizer/master/images/samplesizer.png)
